@@ -1,12 +1,13 @@
-# Semester 1 Final Projects - Python 
+# Semester 1 Final Projects
 
-## Project Objectives
+## Semester 1 Final Projects - Python
+### Project Objectives
 - Apply Python fundamentals in a complete project
 - Practice logical problem solving
 - Improve coding structure and readability
 - Understand how to build a simple Python application
 
-## Topics Covered
+### Topics Covered
 - Variables and data types
 - Conditional statements
 - Loops
@@ -14,7 +15,6 @@
 - Basic input and output
 - Simple data processing
 
-## Tools & Technologies
+### Tools & Technologies
 - Python 3
-- Code editor (VS Code / PyCharm)
-- Command Line / Terminal
+- Code editor (VS Code / Google Collab)
